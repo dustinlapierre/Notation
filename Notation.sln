@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notation", "Notation\Notation.csproj", "{909F0B87-1B80-4CD4-8B6C-5E46968CC68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909F0B87-1B80-4CD4-8B6C-5E46968CC68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909F0B87-1B80-4CD4-8B6C-5E46968CC68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909F0B87-1B80-4CD4-8B6C-5E46968CC68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909F0B87-1B80-4CD4-8B6C-5E46968CC68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE76DA3-D067-420D-831A-1497580856FF}
+	EndGlobalSection
+EndGlobal
