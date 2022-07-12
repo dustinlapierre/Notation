@@ -24,7 +24,7 @@ namespace Notation.ViewModel.Commands
 
         public void Execute(object? parameter)
         {
-            //TODO Create new Notebook
+            VM.CreateNotebook();
         }
     }
 }
